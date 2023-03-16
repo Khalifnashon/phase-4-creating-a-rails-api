@@ -1,5 +1,5 @@
 # Creating a Rails API from Scratch
-
+<!-- Done -->
 ## Learning Goals
 
 - Use the `--api` flag to create an API-only Rails app
